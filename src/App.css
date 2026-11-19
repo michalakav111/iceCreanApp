@@ -1,0 +1,9 @@
+.scoop-limit-notice {
+  background-color: #fff3cd;
+  color: #856404;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ffeeba;
+  text-align: center;
+  font-weight: bold;
+}

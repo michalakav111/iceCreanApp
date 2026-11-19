@@ -1,0 +1,41 @@
+.header {
+  background: linear-gradient(135deg, #fff0f3, #e5f6ff);
+  padding: 25px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  border-radius: 0 0 20px 20px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-size: 48px;
+  background-color: white;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+.titleContainer {
+  text-align: left;
+}
+
+.titleContainer h1 {
+  color: #75445b;
+  font-size: 32px;
+  margin: 0;
+  font-weight: 800;
+}
+
+.titleContainer p {
+  color: #9b7184;
+  font-size: 15px;
+  margin: 6px 0 0;
+  letter-spacing: 0.5px;
+}
